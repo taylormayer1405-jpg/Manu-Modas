@@ -26,12 +26,14 @@ Tabelas:
  >Nome
  >Email
  >Data de nascimento
- >Número de celular]
+ >Número de celular
  >Endereço
-3-Relatório
- >Entrada e saída
+3-Serviços
+ >Nome do Serviço
+ >Pedidos de clientes
+ >Preços 
 4-Vendas
- >Status da vendas
+ >Status da venda
   >Concluída
   >Em andamento
   >Cancelada
